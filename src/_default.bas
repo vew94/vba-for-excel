@@ -2,7 +2,6 @@ Option Explicit
 
 '/**
 ' * Title
-' * @version
 ' */
 Sub hoge()
 

@@ -2,7 +2,6 @@ Option Explicit
 
 '/**
 ' * Break links
-' * @version
 ' */
 Sub break_links()
     call fnc_break_links(ThisWorkbook)
